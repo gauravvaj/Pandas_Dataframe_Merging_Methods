@@ -1,1 +1,1 @@
-This repository has jupyter notebook file in which Pandas functions like merge() , join() , cocat() are discussed with the help of two sample dataframes.These functions acts as the most important methods for joining two dataframes .
+This repository has jupyter notebook file in which Pandas functions like merge() , join() , concat() are discussed with the help of two sample dataframes.These functions acts as the most important methods for joining two dataframes .
